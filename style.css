@@ -1,0 +1,14 @@
+/* Définition des variables CSS pour les couleurs, les polices et l'espacement. */
+/* Cela rend le thème du site facile à modifier. */
+:root {
+  --primary-color: #007bff; /* Bleu vibrant */
+  --secondary-color: #6c757d; /* Gris moyen */
+  --accent-color: #28a745; /* Vert pour les accents ou les boutons "call to action" */
+  --dark-color: #343a40; /* Gris foncé, presque noir */
+  --light-color: #f8f9fa; /* Gris très clair */
+  --font-family: 'Helvetica Neue', Arial, sans-serif;
+  --heading-font-family: 'Georgia', serif;
+  --spacing-unit: 1rem;
+}
+
+/* * Styles généraux pour le
